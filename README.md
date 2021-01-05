@@ -5,7 +5,6 @@
 
 <h5>Asus ROG-Strix Z490 Gaming-E Motherboard<br>
 Intel Core i7 10700K CPU
-<h6> Stably overclocked at 5.1 GHz
 <h5>Radeon RX 5700XT Graphics<br>
 Broadcom 20702 wireless card<br>
 Atheros 8111 Dual-Port Gigabit LAN card<br>
