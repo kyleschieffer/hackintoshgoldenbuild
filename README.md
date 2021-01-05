@@ -1,7 +1,7 @@
 # hackintoshgoldenbuild</b>
-<h2>EFI and Config Files for Perfectly Configured Multi-Boot Hackintosh on Z490 Motherboard
+<h3>EFI and Config Files for Perfectly Configured Multi-Boot Hackintosh on Z490 Motherboard
 
-<h3>This repository contains configuration files and tools to build a perfect Hackintosh with the following hardware:<br>
+<h4>This repository contains configuration files and tools to build a perfect Hackintosh with the following hardware:<br>
 
 <h4>Hardware
 <h6>Asus ROG-Strix Z490 Gaming-E Motherboard<br>
@@ -40,7 +40,7 @@ Focusrite Scarlett 6i6 Sound Interface<br>
 
 <h4>What works:
   
-<h2> EVERYTHING!
+<h3> EVERYTHING!
 
 <h4> Specifically:
 <h6>Multi boot with Windows and Linux, with a clean, custom GUI based on rEFInd Boot Manager.<br>
