@@ -7,7 +7,7 @@
 <h6>Asus ROG-Strix Z490 Gaming-E Motherboard<br>
 Intel Core i7 10700K CPU<br>
 Radeon RX 5700XT Graphics<br>
-Broadcom 20702 wireless card<br>
+Broadcom BCM4360 wireless card<br>
 Atheros 8111 Dual-Port Gigabit LAN card<br>
 Focusrite Scarlett 6i6 Sound Interface<br>
 
