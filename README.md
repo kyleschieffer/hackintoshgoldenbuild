@@ -40,10 +40,10 @@ Focusrite Scarlett 6i6 Sound Interface<br>
    
 <h5>The second NVMe slot (my Windows Boot Drive) shares a bus with SATA ports 5 and 6, so in order to prevent throttling my high speed drive, my two lower-speed HDDs are connected to a discreet SATA expansion card.  In order to boot from Time Machine, Compatibility Support Module (CSM) must be enabled.<br>
 
-<h4>Features:
+<h4>Features and Issues:
 <h5>Multi boot with Windows and Linux, with a clean, custom GUI based on rEFInd Boot Manager.<br>
 
-<h4>macOS
+<h4>macOS:
 <h5>The Integrated Intel 2.5G Ethernet works!<br>
 Time Machine works!<br>
 Facetime and Messages work!<br>
