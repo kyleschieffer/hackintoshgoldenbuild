@@ -4,15 +4,15 @@
 <h3>This repository contains configuration files and tools to build a perfect Hackintosh with the following hardware:<br>
 
 <h5>Asus ROG-Strix Z490 Gaming-E Motherboard<br>
-Intel Core i7 10700K CPU
-<h5>Radeon RX 5700XT Graphics<br>
+Intel Core i7 10700K CPU<br>
+Radeon RX 5700XT Graphics<br>
 Broadcom 20702 wireless card<br>
 Atheros 8111 Dual-Port Gigabit LAN card<br>
 Focusrite Scarlett 6i6 Sound Interface<br>
 
 <h4>Storage
 
-<h5>NVMe<br>
+<h5>NVMe
 <h6>  Samsung 970 EVO NVMe Boot Drive<br>
     macOS Big Sur - 500 GB<br>
   WD Black NVMe<br>
