@@ -3,7 +3,7 @@
 
 <h3>This repository contains configuration files and tools to build a perfect Hackintosh with the following hardware:<br>
 
-<h5>Asus ROG-Strix Z490 Gaming-E Motherboard<br>
+<h6>Asus ROG-Strix Z490 Gaming-E Motherboard<br>
 Intel Core i7 10700K CPU<br>
 Radeon RX 5700XT Graphics<br>
 Broadcom 20702 wireless card<br>
@@ -44,7 +44,7 @@ Focusrite Scarlett 6i6 Sound Interface<br>
 <h5>Multi boot with Windows and Linux, with a clean, custom GUI based on rEFInd Boot Manager.<br>
 
 <h4>macOS:
-<h5>The Integrated Intel 2.5G Ethernet works!<br>
+<h6>The Integrated Intel 2.5G Ethernet works!<br>
 Time Machine works!<br>
 Facetime and Messages work!<br>
 AirDrop works!<br>
@@ -53,20 +53,20 @@ Virtualization works!<br>
 USB ports are mapped, but the kext must be patched with your own system-id to work.<br>
 
 <h4>Windows:<br>
-<h5>Sharpkeys Config - Keyboard remap to shuffle Ctl ^, Win/Cmd ⌘, and Alt/Opt ⌥ for most Mac keyboard shortcuts<br>
+<h6>Sharpkeys Config - Keyboard remap to shuffle Ctl ^, Win/Cmd ⌘, and Alt/Opt ⌥ for most Mac keyboard shortcuts<br>
 Autohotkey Scripts - Additional command remaps to make the keyboard shortcuts feel like macOS<br>
 APFS and HFS+ drives work
 
 <h4>Linux:<br>
-<h5>Displaylink Driver<br>
+<h6>Displaylink Driver<br>
 
 <h4>Multi-Boot:
-<h5>Custom bootloader GUI<br>
+<h6>Custom bootloader GUI<br>
 Stable boot priority, fixed<br>
 Time zone issues between OSes, fixed<br>
 Bluetooth sharing between OSes, fixed<br>
 
 <h4>Things I would still like to implement:<br>
-<h5>EDID discrepancies with DisplayLink monitor when changing OSes.<br>
+<h6>EDID discrepancies with DisplayLink monitor when changing OSes.<br>
 Windows 10 - Autohotkey Keyboard Remap Script doesn't work when active window has administrator privileges.<br>
 Linux - APFS support
