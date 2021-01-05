@@ -4,7 +4,7 @@ EFI and Config Files for Perfectly Configured Hackintosh on Z490 Motherboard
 This repository contains configuration files and tools to build a perfect Hackintosh with the following hardware:
 
 Asus ROG-Strix Z490 Gaming-E Motherboard<br>
-Intel Core i7 10700K CPU
+>Intel Core i7 10700K CPU
  Stably overclocked at 5.1 GHz<br>
 Radeon RX 5700XT Graphics<br>
 Broadcom 20702 wireless card<br>
