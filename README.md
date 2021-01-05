@@ -3,6 +3,7 @@
 
 <h3>This repository contains configuration files and tools to build a perfect Hackintosh with the following hardware:<br>
 
+<h4>Hardware
 <h6>Asus ROG-Strix Z490 Gaming-E Motherboard<br>
 Intel Core i7 10700K CPU<br>
 Radeon RX 5700XT Graphics<br>
@@ -17,7 +18,6 @@ Focusrite Scarlett 6i6 Sound Interface<br>
 &nbsp;    macOS Big Sur - 500 GB<br>
   WD Black NVMe<br>
 &nbsp;    Windows 10 - 500 GB<br>
-
 <h5>SATA<br>
 <h6>  Samsung 860 EVO SSD<br>
 &nbsp;        Libraries - 1 TB<br>
@@ -27,21 +27,23 @@ Focusrite Scarlett 6i6 Sound Interface<br>
 &nbsp;        Virtualization Station - 1 TB<br>
   Crucial MX300 SSD<br>
  &nbsp;       Ubuntu - 525 GB<br>
-
 <h5>USB 3.2<br>
 <h6>  Samsung T7 USB SSD<br>
 &nbsp;    Working Projects - 500 GB<br>
-
 <h5>PCIe Sata Port Adapter<br>
 <h6>  Seagate Barracuda HDD <br>
 &nbsp;    Time Machine - 4 TB<br>
   WD 80EDAZ HDD<br>
 &nbsp;    Jazzy Repository - 8 TB<br>
    
-<h5>The second NVMe slot (my Windows Boot Drive) shares a bus with SATA ports 5 and 6, so in order to prevent throttling my high speed drive, my two lower-speed HDDs are connected to a discreet SATA expansion card.  In order to boot from Time Machine, Compatibility Support Module (CSM) must be enabled.<br>
+<h6>The second NVMe slot (my Windows Boot Drive) shares a bus with SATA ports 5 and 6, so in order to prevent throttling my high speed drive, my two lower-speed HDDs are connected to a discreet SATA expansion card.  In order to boot from Time Machine, Compatibility Support Module (CSM) must be enabled.<br>
 
-<h4>Features and Issues:
-<h5>Multi boot with Windows and Linux, with a clean, custom GUI based on rEFInd Boot Manager.<br>
+<h4>What works:
+  
+<h2> EVERYTHING!
+
+<h4> Specifically:
+<h6>Multi boot with Windows and Linux, with a clean, custom GUI based on rEFInd Boot Manager.<br>
 
 <h4>macOS:
 <h6>The Integrated Intel 2.5G Ethernet works!<br>
