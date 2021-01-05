@@ -30,7 +30,7 @@ Focusrite Scarlett 6i6 Sound Interface<br>
 <h5>USB 3.2<br>
 <h6>  Samsung T7 USB SSD<br>
 &nbsp;    Working Projects - 500 GB<br>
-<h5>PCIe Sata Port Adapter<br>
+<h5>PCIe SATA Port Adapter<br>
 <h6>  Seagate Barracuda HDD <br>
 &nbsp;    Time Machine - 4 TB<br>
   WD 80EDAZ HDD<br>
