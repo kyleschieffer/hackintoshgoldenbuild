@@ -1,25 +1,25 @@
 # hackintoshgoldenbuild
-EFI and Config Files for Perfectly Configured Hackintosh on Z490 Motherboard
+<h1>EFI and Config Files for Perfectly Configured Hackintosh on Z490 Motherboard</h1)
 
-This repository contains configuration files and tools to build a perfect Hackintosh with the following hardware:
+<h2>This repository contains configuration files and tools to build a perfect Hackintosh with the following hardware:<br>
 
-Asus ROG-Strix Z490 Gaming-E Motherboard<br>
->Intel Core i7 10700K CPU
- Stably overclocked at 5.1 GHz<br>
-Radeon RX 5700XT Graphics<br>
+<h3>Asus ROG-Strix Z490 Gaming-E Motherboard<br>
+Intel Core i7 10700K CPU
+<h4> Stably overclocked at 5.1 GHz<br>
+<h3>Radeon RX 5700XT Graphics<br>
 Broadcom 20702 wireless card<br>
 Atheros 8111 Dual-Port Gigabit LAN card<br>
 Focusrite Scarlett 6i6 Sound Interface<br>
 
-Storage
+<h2>Storage
 
-NVMe<br>
-  Samsung 970 EVO NVMe Boot Drive<br>
-    macOS Big Sur - 500 GB<br>
-  WD Black NVMe<br>
-    Windows 10 - 500 GB<br>
+<h3>NVMe<br>
+<h4>  Samsung 970 EVO NVMe Boot Drive<br>
+<h5>    macOS Big Sur - 500 GB<br>
+<h4>  WD Black NVMe<br>
+<h5>    Windows 10 - 500 GB<br>
 
-SATA<br>
+<h2>SATA<br>
   Samsung 860 EVO SSD<br>
     Libraries - 1 TB<br>
   Samsung 860 EVO SSD<br>
