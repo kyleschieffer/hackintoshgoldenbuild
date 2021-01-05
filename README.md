@@ -55,6 +55,7 @@ USB ports are mapped, but the kext must be patched with your own system-id to wo
 <h4>Windows:<br>
 <h5>Sharpkeys Config - Keyboard remap to shuffle Ctl ^, Win/Cmd ⌘, and Alt/Opt ⌥ for most Mac keyboard shortcuts<br>
 Autohotkey Scripts - Additional command remaps to make the keyboard shortcuts feel like macOS<br>
+APFS and HFS+ drives work
 
 <h4>Linux:<br>
 <h5>Displaylink Driver<br>
@@ -64,6 +65,7 @@ Autohotkey Scripts - Additional command remaps to make the keyboard shortcuts fe
 Time zone issues between OSes, fixed<br>
 Bluetooth sharing between OSes, fixed<br>
 
-<h4>Things to improve:<br>
+<h4>Things I would still like to implement:<br>
 <h5>EDID discrepancies with DisplayLink monitor when changing OSes.<br>
 Windows 10 - Autohotkey Keyboard Remap Script doesn't work when active window has administrator privileges.<br>
+Linux - APFS support
