@@ -20,13 +20,13 @@ Focusrite Scarlett 6i6 Sound Interface<br>
 
 <h5>SATA<br>
 <h6>  Samsung 860 EVO SSD<br>
-    Libraries - 1 TB<br>
+        Libraries - 1 TB<br>
   Samsung 860 EVO SSD<br>
-    Libraries 2 - 1 TB<br>
+        Libraries 2 - 1 TB<br>
   Crucial MX500 SSD<br>
-    Virtualization Station - 1 TB<br>
+        Virtualization Station - 1 TB<br>
   Crucial MX300 SSD<br>
-    Ubuntu - 525 GB<br>
+        Ubuntu - 525 GB<br>
 
 <h5>USB 3.2<br>
 <h6>  Samsung T7 USB SSD<br>
