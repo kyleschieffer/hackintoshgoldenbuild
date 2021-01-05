@@ -1,4 +1,4 @@
-# hackintoshgoldenbuild</b>
+# Hackintosh Golden Build</b>
 <h3>EFI and Config Files for Perfectly Configured Multi-Boot Hackintosh on Z490 Motherboard
 
 <h4>This repository contains configuration files and tools to build a perfect Hackintosh with the following hardware:<br>
