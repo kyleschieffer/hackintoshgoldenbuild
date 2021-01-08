@@ -15,26 +15,26 @@ ASmedia PCIe x1 to SATA expansion card<br>
 
 <h5>Storage
 
-<h6>Samsung 970 EVO NVMe<br>
-&nbsp;    macOS Big Sur - 500 GB<br>
-WD Black NVMe<br>
-&nbsp;    Windows 10 - 500 GB<br>
-Crucial MX300 SSD<br>
-&nbsp;    Arch Linux - 525 GB<br>
-Samsung T7 USB SSD<br>
-&nbsp;    Working Projects - 500 GB<br>
-Samsung 860 EVO SSD<br>
-&nbsp;    Libraries - 1 TB<br>
-Samsung 860 EVO SSD<br>
-&nbsp;    Libraries 2 - 1 TB<br>
-Crucial MX500 SSD<br>
-&nbsp;    Virtualization Station - 1 TB<br>
-Seagate Barracuda HDD <br>
-&nbsp;    Time Machine - 4 TB<br>
-WD 80EDAZ HDD<br>
-&nbsp;    Jazzy Repository - 8 TB<br>
+<h6>Samsung 970 EVO NVMe - 500 GB<br>
+&nbsp;    macOS Big Sur<br>
+WD Black NVMe - 500 GB<br>
+&nbsp;    Windows 10<br>
+Crucial MX300 SSD - 525 GB<br>
+&nbsp;    Arch Linux<br>
+Samsung T7 USB SSD - 500 GB<br>
+&nbsp;    Working Projects<br>
+Samsung 860 EVO SSD - 1 TB<br>
+&nbsp;    Libraries<br>
+Samsung 860 EVO SSD - 1 TB<br>
+&nbsp;    Libraries 2<br>
+Crucial MX500 SSD - 1 TB<br>
+&nbsp;    Virtualization Station<br>
+Seagate Barracuda HDD - 4 TB<br>
+&nbsp;    Time Machine<br>
+WD 80EDAZ HDD - 8 TB<br>
+&nbsp;    Jazzy Repository<br>
    
-<h6>The second NVMe slot (my Windows Boot Drive) shares a bus with SATA ports 5 and 6, so in order to prevent throttling my high speed drive, my two lower-speed HDDs are connected to a discreet SATA expansion card.  With this configuration, Compatibility Support Module (CSM) must be enabled, in order for Time Machine to appear as a boot option, however I would recommend activating it selectively on the rare occasions when that is necessary, as it otherwise results in longer boot times waiting to initialize an HDD.<br>
+<h6>The second NVMe slot (my Windows Boot Drive) shares a bus with SATA ports 5 and 6, so in order to prevent throttling my high speed drive, my two lower-speed HDDs are connected to a discreet SATA expansion card.  With this configuration, Compatibility Support Module (CSM) must be enabled in order for Time Machine to appear as a boot option, however I would recommend activating it selectively on the rare occasions when that is necessary, as it otherwise results in longer boot times.<br>
 
 <h4>What works:
   
