@@ -69,7 +69,7 @@ Autohotkey Scripts - Additional command remaps to make the keyboard shortcuts fe
 APFS and HFS+ drives work, thanks to Paragon Mac Toolbox.  It's commercial software, but no alternative comes close.
 
 <h4>Linux:<br>
-sudo rm -rf /*
+<h6>sudo rm -rf /*
 
 <h4>Things I would still like to implement:<br>
 Windows 10 - Autohotkey Keyboard Remap Script doesn't work when active window has administrator privileges.<br>
